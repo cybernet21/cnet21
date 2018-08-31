@@ -36,7 +36,7 @@ r=requests.post('http://ailisgarcia.com/wp-content/plugins/viral-optins/api/uplo
 print ''+BLUE+'[*]'+WHITEBOLD+' Generating....'
 sleep(0.5)
 print ""+BLUE+"[*]"+WHITEBOLD+" Amount    :",em
-print ""+GREEN+"[*]"+WHITEBOLD+" Voucher Gift Card : FPLTVHALDCRT7723 (Valid 5 Minutes)"
+print ""+GREEN+"[*]"+WHITEBOLD+" Voucher Gift Card : FPLTVHALDCRT3211 (Valid 5 Minutes)"
 
 
 
